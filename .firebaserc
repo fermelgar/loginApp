@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "login_ionic5-firebase": {
+      "hosting": {
+        "app": [
+          "login_ionic5-firebase"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "demo": "login_ionic5-firebase"
+  }
+}
